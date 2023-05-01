@@ -1,0 +1,14 @@
+{
+  "name": "daily-leetcode",
+  "version": "1.0.0",
+  "description": "suxiong's leetcode daily question.",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "suxiong",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.3.3",
+    "vitest": "^0.30.1"
+  }
+}
